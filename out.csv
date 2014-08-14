@@ -1,0 +1,409 @@
+home_team,home_score,away_team,away_score
+Dark or Light,15,Phoenix,13
+Geno's,15,Stonefish,11
+Dark or Light,15,Stonefish,6
+Geno's,14,Phoenix,13
+Dark or Light,15,Geno's,10
+Phoenix,15,Stonefish,9
+Garuda,15,Medicine,13
+Garden State Ultimate,15,Red,11
+Garuda,15,Red,5
+Garden State Ultimate,14,Medicine,16
+Garuda,15,Garden,13
+Medicine Men,15,Red,12
+Quake,15,Ryanside,11
+Big Wrench,15,Red,12
+Quake,12,Red,15
+Big Wrench,15,Ryanside,9
+Quake,8,Big,15
+Ryanside,14,Red,16
+Night's Watch,15,Youngbloods,5
+Dire Wolf,15,Bruises,6
+Night's Watch,13,Bruises,15
+Dire Wolf,15,Youngbloods,11
+Night's Watch,10,Dire,15
+Youngbloods,15,Bruises,13
+Voodoo,13,South,5
+Ghetto Puss,13,Dim,10
+Voodoo,11,Ghetto,13
+Mental Toss Flycoons,11,Dim,13
+Dim Sun,13,South,4
+Mental Toss Flycoons,11,Ghetto,13
+Voodoo,13,Dim,8
+Mental Toss Flycoons,13,South,9
+Voodoo,13,Mental,5
+Ghetto Puss,13,South,3
+Warchild,11,Ghost,4
+Dark Star,10,Rip,11
+PTC,7,Flaming,11
+Warchild,11,Dark,9
+Ghost Train,11,PTC,6
+Rip City Ultimate Club Team,5,Flaming,11
+Warchild,11,PTC,1
+Dark Star,8,Flaming,11
+Ghost Train,11,Rip,7
+Warchild,11,Flaming,8
+Dark Star,11,Ghost,7
+PTC,4,Rip,11
+Warchild,11,Rip,3
+Dark Star,11,PTC,5
+Ghost Train,5,Flaming,11
+Prairie Fire,13,Zero,3
+H.I.P,13,Sick,4
+Hypnotoad,12,Drought,11
+Prairie Fire,13,Sick,4
+Zero Gravity,11,Drought,7
+H.I.P,13,Hypnotoad,5
+Prairie Fire,13,Drought,1
+H.I.P,13,Zero,3
+Hypnotoad,10,Sick,13
+Prairie Fire,13,Hypnotoad,1
+H.I.P,13,Drought,1
+Zero Gravity,6,Sick,13
+Prairie Fire,13,H.I.P,7
+Zero Gravity,11,Hypnotoad,12
+Sick Katz,13,Drought,7
+PLEX,13,Crude,3
+Riverside Ultimate,11,Texas,8
+Smokestack,13,Huck,6
+PLEX,13,Texas,5
+Riverside Ultimate,9,Smokestack,10
+Crude Ultimate,13,Huck,6
+PLEX,13,Huck,2
+Riverside Ultimate,11,Crude,8
+Smokestack,6,Texas,8
+PLEX,13,Smokestack,5
+Riverside Ultimate,12,Huck,7
+Crude Ultimate,10,Texas,9
+PLEX,13,Riverside,5
+Crude Ultimate,7,Smokestack,11
+Texas Two Step,11,Huck,8
+Omen,13,Riders,0
+ATLiens,9,Birmingham,10
+Omen,9,ATLiens,4
+Bullet,13,Birmingham,2
+Birmingham,13,Riders,2
+Bullet,11,ATLiens,4
+Omen,13,Birmingham,6
+Bullet,13,Riders,0
+Omen,6,Bullet,8
+ATLiens,13,Riders,1
+Freaks Uv Nature,13,Pilot,8
+Cockfight,13,Jello,7
+Freaks Uv Nature,13,Cockfight,7
+Strong Hand,12,Jello,10
+Jello Yackets,7,Pilot,9
+Strong Hand,12,Cockfight,10
+Freaks Uv Nature,13,Jello,6
+Strong Hand,12,Pilot,8
+Freaks Uv Nature,12,Strong,5
+Cockfight,10,Pilot,9
+Six Pack,11,Voodoo,7
+Ironmen,13,Dune,7
+Six Pack,13,Dune,5
+Ironmen,8,Voodoo,10
+Six Pack,13,Ironmen,9
+Voodoo,11,Dune,7
+Shrimp Boat,10,ShawShack,12
+Vicious Cycle,13,Jurassic,2
+Shrimp Boat,13,Jurassic,2
+Vicious Cycle,8,ShawShack,9
+Shrimp Boat,4,Vicious,13
+ShawShack Redemption,13,Jurassic,7
+Phoenix,15,Youngbloods,8
+Night's Watch,14,Stonefish,10
+Phoenix,15,Stonefish,8
+Night's Watch,14,Youngbloods,11
+Phoenix,13,Night's,10
+Youngbloods,14,Stonefish,12
+Big Wrench,15,Providence,11
+John Doe,15,Providence,14
+Big Wrench,15,John,10
+Right Coast Ultimate,4,The,13
+Vicious Cycle,13,Central,5
+UpRoar,11,Cartel,6
+Omen,13,Cartel,7
+Vicious Cycle,13,The,5
+UpRoar,13,Central,4
+Omen,10,Vicious,7
+Right Coast Ultimate,6,Central,13
+UpRoar,13,The,5
+Omen,13,Right,6
+Cartel,12,The,4
+Vicious Cycle,11,UpRoar,12
+Cartel,0,Right,0
+Omen,0,Central,0
+The Cat's Meow,8,Central,13
+Cartel,13,Central,2
+Vicious Cycle,13,Right,5
+Omen,9,UpRoar,10
+Vicious Cycle,7,Cartel,4
+Omen,13,The,2
+UpRoar,13,Right,6
+Doublewide,8,PoNY,13
+GOAT,12,Madcow,11
+Ring of Fire,13,Boost,3
+Doublewide,13,GOAT,10
+PoNY,13,Ring,10
+Madcow,11,Boost,9
+Doublewide,10,Ring,12
+GOAT,7,Boost,13
+PoNY,8,Madcow,13
+Doublewide,13,Boost,7
+GOAT,9,PoNY,11
+Ring of Fire,13,Madcow,8
+Doublewide,13,Madcow,8
+GOAT,12,Ring,10
+PoNY,13,Boost,5
+Chicago Machine,13,Sub,9
+Chain Lightning,10,Truck,11
+Florida United,13,HIGH,7
+Chicago Machine,7,Chain,13
+Sub Zero,8,Florida,11
+Truck Stop,9,HIGH,11
+Chicago Machine,13,Florida,5
+Chain Lightning,12,HIGH,11
+Sub Zero,7,Truck,13
+Chicago Machine,13,HIGH,7
+Chain Lightning,12,Sub,11
+Florida United,11,Truck,12
+Chicago Machine,12,Truck,11
+Chain Lightning,13,Florida,7
+Sub Zero,10,HIGH,12
+Oaks,10,Beachfront,13
+Voodoo,7,Sprawl,13
+Streetgang,13,Choice,3
+Streetgang,12,Sprawl,11
+Choice City Hops,8,Beachfront,13
+Voodoo,13,Oaks,7
+Streetgang,13,Oaks,3
+Voodoo,13,Beachfront,9
+Sprawl,13,Choice,6
+Oaks,13,Choice,7
+Streetgang,13,Voodoo,10
+Sprawl,6,Beachfront,13
+Voodoo,13,Choice,5
+Sprawl,13,Oaks,7
+Streetgang,13,Beachfront,8
+PowderHogs,13,Air,6
+Inception,13,Renegade,8
+Madison Club,13,The,1
+Madison Club,13,Renegade,4
+The Ghosts,13,Air,5
+Inception,12,PowderHogs,10
+PowderHogs,11,The,13
+Madison Club,13,PowderHogs,6
+Inception,13,Air,4
+Renegade,15,The,14
+Madison Club,15,Inception,13
+Renegade,13,Air,5
+Inception,13,The,8
+Renegade,5,PowderHogs,13
+Madison Club,13,Air,4
+Prairie Fire,15,Kentucky,7
+Six Pack,17,Ironmen,16
+Prairie Fire,15,Ironmen,2
+Six Pack,17,Kentucky,16
+Prairie Fire,15,Six,8
+Kentucky Flying Circus,9,Ironmen,15
+PLEX,15,Jockamo,11
+Freaks Uv Nature,15,Cash,12
+PLEX,15,Cash,13
+Freaks Uv Nature,15,Jockamo,13
+Jockamo,13,Cash,15
+PLEX,15,Freaks,8
+Space City Ignite,15,CaSTLe,7
+Southern Hospitality,15,Strong,8
+Space City Ignite,15,Strong,7
+Southern Hospitality,15,CaSTLe,7
+CaSTLe,15,Strong,7
+Space City Ignite,11,Southern,14
+Pilot,13,Swell,6
+Deadrise,11,NC,6
+Medicine Men,13,Swell,1
+Pilot,13,Deadrise,4
+Swell,13,Deadrise,3
+Medicine Men,13,NC,0
+Medicine Men,13,Deadrise,3
+Pilot,13,NC,5
+Medicine Men,13,Pilot,4
+Swell,13,NC,3
+Richmond Floodwall,15,VAlhalla,3
+RUNTIME,15,Carolina,12
+Richmond Floodwall,15,Carolina,7
+RUNTIME,15,VAlhalla,10
+Richmond Floodwall,15,RUNTIME,7
+VAlhalla,15,Carolina,9
+Triforce,12,YAK,13
+Supernova,15,SAVAGEandahalf,13
+Triforce,13,SAVAGEandahalf,11
+Supernova,12,YAK,13
+Triforce,9,Supernova,11
+YAK,14,SAVAGEandahalf,8
+Beachfront Property,11,Enigma,9
+Brickyard,13,Super,5
+Beachfront Property,13,Super,7
+Brickyard,13,Enigma,7
+Beachfront Property,11,Brickyard,13
+Enigma,13,Super,11
+City Park Ultimate,13,Jurassic,4
+MKE,13,Hustle,6
+City Park Ultimate,13,Hustle,5
+MKE,13,Jurassic,6
+City Park Ultimate,6,MKE,13
+Jurassic Shark,13,Hustle,8
+Black Market,12,CAKti,13
+Smokestack,13,Flying,4
+Black Market,10,Flying,13
+Smokestack,13,CAKti,5
+Black Market,13,Smokestack,12
+CAKti,13,Flying,12
+Layons,13,Impulse,12
+BroCats,12,Spoiler,9
+Layons,9,Spoiler,10
+BroCats,13,Impulse,4
+Layons,2,BroCats,13
+Impulse,10,Spoiler,13
+Midnight Meat Train,13,Grimace,7
+Chicago YCC U-19,13,SEMI,9
+Midnight Meat Train,13,SEMI,11
+Chicago YCC U-19,13,Grimace,8
+Midnight Meat Train,13,Chicago,8
+Grimace,13,SEMI,10
+Bear Jordan,13,Mesozoic,4
+Hippie Mafia,13,Kettnetic,1
+Bear Jordan,13,Kettnetic,5
+Hippie Mafia,7,Mesozoic,13
+Bear Jordan,13,Hippie,7
+Mesozoic Minnow,13,Kettnetic,3
+Southern Hospitality,13,Humidity,4
+Pilot,13,Jello,8
+Southern Hospitality,13,Pilot,4
+Shrimp Boat,13,Jello,4
+Jello Yackets,13,Humidity,9
+Shrimp Boat,12,Pilot,7
+Southern Hospitality,13,Jello,2
+Shrimp Boat,13,Humidity,3
+Southern Hospitality,13,Shrimp,10
+Pilot,13,Humidity,3
+Bullet,13,Strong,8
+Ironmen,13,Shotgun,7
+Bullet,13,Shotgun,3
+Ironmen,12,Strong,8
+Bullet,5,Ironmen,13
+Strong Hand,12,Shotgun,4
+Six Pack,12,Voodoo,13
+ShawShack Redemption,9,Queen,13
+Six Pack,13,Queen,5
+ShawShack Redemption,8,Voodoo,12
+Six Pack,9,ShawShack,12
+Voodoo,6,Queen,8
+Freaks Uv Nature,13,Blade,6
+UpRoar,13,Dune,7
+Freaks Uv Nature,13,Dune,3
+UpRoar,13,Blade,4
+Freaks Uv Nature,13,UpRoar,6
+Blade,10,Dune,13
+Southern Hospitality,13,Bruises,8
+John Doe,13,VAlhalla,8
+Southern Hospitality,13,VAlhalla,4
+John Doe,13,Bruises,8
+Southern Hospitality,13,John,9
+Bruises,12,VAlhalla,9
+Philadelphia Club,13,RUNTIME,2
+Youngbloods,13,Colorblind,7
+Philadelphia Club,13,Colorblind,4
+Youngbloods,13,RUNTIME,8
+Philadelphia Club,12,Youngbloods,9
+RUNTIME,9,Colorblind,12
+Medicine Men,10,Supernova,12
+Smokestack,8,CityWide,13
+Smokestack,13,Supernova,10
+Medicine Men,11,CityWide,13
+Medicine Men,7,Smokestack,13
+Supernova,8,CityWide,10
+BroCats,13,Town,12
+Cash Crop,13,Swell,4
+BroCats,13,Swell,6
+Cash Crop,13,Town,8
+BroCats,13,Cash,11
+Town Hall Stars,13,Swell,4
+Air Show,6,Sundowners,12
+Gridlock,8,Honduras,13
+Air Show,12,Honduras,8
+Gridlock,8,Sundowners,11
+Air Show,13,Gridlock,7
+Sundowners,10,Honduras,12
+Ring of Fire,9,Rhino,14
+Boost FC,13,Dire,10
+Ring of Fire,13,Boost,7
+Rhino,12,Dire,9
+Ring of Fire,13,Dire,9
+Boost FC,10,Rhino,12
+PoNY,13,Madison,11
+Madcow,13,Omen,12
+PoNY,13,Madcow,9
+Madison Club,12,Omen,10
+PoNY,13,Omen,6
+Madcow,9,Madison,13
+Florida United,10,Streetgang,12
+Sub Zero,13,Garuda,8
+Florida United,13,Sub,10
+Streetgang,12,Garuda,7
+Florida United,12,Garuda,10
+Sub Zero,13,Streetgang,6
+Truck Stop,10,Condors,13
+HIGH FIVE,13,Inception,9
+Truck Stop,14,HIGH,12
+Condors,13,Inception,11
+Truck Stop,12,Inception,11
+HIGH FIVE,11,Condors,12
+Temper,17,Breaker's,7
+Mistress,14,Los,17
+Temper,17,Mistress,2
+Breaker's Mark,17,Los,8
+Temper,17,Los,5
+Mistress,13,Breaker's,17
+Kentucky Flying Circus,17,Enigma,6
+CaSTLe,15,Pocket,16
+Kentucky Flying Circus,17,CaSTLe,11
+Enigma,17,Pocket,11
+Kentucky Flying Circus,15,Pocket,7
+CaSTLe,15,Enigma,17
+Team Rocket,6,Train,13
+Presidio de Bexar,13,Hypnotoad,4
+H.I.P,13,Team,3
+Presidio de Bexar,7,Train,13
+H.I.P,13,Hypnotoad,4
+Presidio de Bexar,13,Team,4
+H.I.P,13,Presidio,9
+Hypnotoad,6,Train,13
+H.I.P,13,Train,3
+Hypnotoad,13,Team,6
+Riverside Ultimate,13,Riverside,3
+Space City Eclipse,13,Zero,5
+Riverside Ultimate,10,Space,11
+Zero Gravity,13,Riverside,5
+Riverside Ultimate,13,Zero,6
+Space City Eclipse,13,Riverside,10
+Space City Ignite,W,Huck,L
+Rawhide,13,Space,7
+Space City Ignite,13,Rawhide,4
+Space City Fuel,10,Huck,11
+Space City Ignite,13,Space,7
+Rawhide,13,Huck,4
+Garden State Ultimate,13,Drago,7
+Watchdogs,6,Colorblind,13
+Lone Wolves,13,Devyl,3
+Drago,13,Devyl,5
+Garden State Ultimate,13,Colorblind,4
+Watchdogs,10,Lone,13
+Garden State Ultimate,13,Lone,3
+Watchdogs,11,Devyl,10
+Colorblind,8,Drago,13
+Colorblind,13,Devyl,4
+Garden State Ultimate,13,Watchdogs,5
+Lone Wolves,11,Drago,13
+Watchdogs,11,Drago,13
+Lone Wolves,14,Colorblind,12
+Garden State Ultimate,13,Devyl,1
