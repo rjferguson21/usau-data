@@ -17,3 +17,6 @@ http://play.usaultimate.org/events/Kentucky-Flying-Circus-Presents-The-Three-Rin
 http://play.usaultimate.org/events/PBJ/schedule/Mens/Club-x-Club/
 http://play.usaultimate.org/events/8th-Annual-Nuccis-Cup/schedule/Mens/Club-x-Club/
 http://play.usaultimate.org/events/USA-Ultimate-US-Open/schedule/Mens/Club-x-Club/
+http://play.usaultimate.org/events/Heavyweights/schedule/Mens/Club-x-Club/
+http://play.usaultimate.org/events/West-Coast-Round-Robin/schedule/Mens/Club-x-Club/
+http://play.usaultimate.org/events/Emerald-City-Classic-TCT-Pro-Finale/schedule/Mens/Club-x-Club/

@@ -97,8 +97,6 @@ Youngbloods,7,Providence Pack Dogs,15,Boston Invitational
 Ryanside,0,Youngbloods,0,Boston Invitational
 Birds of Pray,0,Lone Wolves,0,Boston Invitational
 Magma 2,0,Stonefish,0,Boston Invitational
-undefined,0,undefined,0,Boston Invitational
-undefined,0,undefined,0,Boston Invitational
 Flashback,W,No Country,L,Boston Invitational
 Westchester Magma Bears,15,The Skyentists,5,Boston Invitational
 Magma 2,15,Juggalos Against Illuminati Leadership,11,Boston Invitational
@@ -142,9 +140,6 @@ Dark Star,4,Warchild,13,Eugene Summer Solstice
 South Portland Knife Fight,9,Rip City Ultimate Club Team,15,Eugene Summer Solstice
 Warchild,5,PTC,2,Eugene Summer Solstice
 Ghost Train,8,Dim Sun,15,Eugene Summer Solstice
-undefined,0,undefined,0,Eugene Summer Solstice
-undefined,0,undefined,0,Eugene Summer Solstice
-undefined,0,undefined,0,Eugene Summer Solstice
 Ghetto Puss,14,Voodoo,15,Eugene Summer Solstice
 Ghetto Puss,15,Flaming Chicken,9,Eugene Summer Solstice
 Voodoo,11,Mental Toss Flycoons,10,Eugene Summer Solstice
@@ -541,6 +536,76 @@ Johnny Bravo,13,Furious George,14,US Open Ultimate Championships
 Ironside,11,Revolver,15,US Open Ultimate Championships
 Johnny Bravo,15,Sub Zero,11,US Open Ultimate Championships
 Revolver,14,Johnny Bravo,12,US Open Ultimate Championships
+Madcow,0,,0,Heavyweights
+Chicago Machine,0,Madcow,0,Heavyweights
+Truck Stop,0,Garuda,0,Heavyweights
+Chicago Machine,0,,0,Heavyweights
+Madcow,0,Garuda,0,Heavyweights
+Chicago Machine,0,Garuda,0,Heavyweights
+Truck Stop,0,,0,Heavyweights
+Garuda,0,,0,Heavyweights
+Truck Stop,0,Madcow,0,Heavyweights
+Chicago Machine,0,Truck Stop,0,Heavyweights
+PoNY,0,Patrol,0,Heavyweights
+HIGH FIVE,0,Prairie Fire,0,Heavyweights
+PoNY,0,HIGH FIVE,0,Heavyweights
+Madison Club,0,Prairie Fire,0,Heavyweights
+Prairie Fire,0,Patrol,0,Heavyweights
+Madison Club,0,HIGH FIVE,0,Heavyweights
+PoNY,0,Prairie Fire,0,Heavyweights
+Madison Club,0,Patrol,0,Heavyweights
+PoNY,0,Madison Club,0,Heavyweights
+HIGH FIVE,0,Patrol,0,Heavyweights
+Streetgang,0,H.I.P,0,Heavyweights
+Sprawl,0,PLEX,0,Heavyweights
+Streetgang,0,Sprawl,0,Heavyweights
+Dire Wolf,0,PLEX,0,Heavyweights
+PLEX,0,H.I.P,0,Heavyweights
+Dire Wolf,0,Sprawl,0,Heavyweights
+Streetgang,0,PLEX,0,Heavyweights
+Dire Wolf,0,H.I.P,0,Heavyweights
+Streetgang,0,Dire Wolf,0,Heavyweights
+Sprawl,0,H.I.P,0,Heavyweights
+Inception,0,BroCats,0,Heavyweights
+Haymaker,0,Kentucky Flying Circus,0,Heavyweights
+Inception,0,Haymaker,0,Heavyweights
+Space City Ignite,0,Kentucky Flying Circus,0,Heavyweights
+Kentucky Flying Circus,0,BroCats,0,Heavyweights
+Space City Ignite,0,Haymaker,0,Heavyweights
+Inception,0,Kentucky Flying Circus,0,Heavyweights
+Space City Ignite,0,BroCats,0,Heavyweights
+Inception,0,Space City Ignite,0,Heavyweights
+Haymaker,0,BroCats,0,Heavyweights
+Grimace,0,,0,Heavyweights
+Black Market,0,,0,Heavyweights
+Black Market,0,Grimace,0,Heavyweights
+CAKti,0,Illusion,0,Heavyweights
+Beachfront Property,0,Illusion,0,Heavyweights
+Beachfront Property,0,CAKti,0,Heavyweights
+Jurassic Shark,0,Climax,0,Heavyweights
+Medicine Men,0,Climax,0,Heavyweights
+Medicine Men,0,Jurassic Shark,0,Heavyweights
+Bear Jordan,0,Garden State Ultimate,0,Heavyweights
+Smokestack,0,Garden State Ultimate,0,Heavyweights
+Smokestack,0,Bear Jordan,0,Heavyweights
+SmokeStack,0,T.C. Imperial,0,Heavyweights
+Brickyard,0,T.C. Imperial,0,Heavyweights
+Brickyard,0,SmokeStack,0,Heavyweights
+CaSTLe,0,Bonehorn,0,Heavyweights
+,0,Bonehorn,0,Heavyweights
+,0,CaSTLe,0,Heavyweights
+Spoiler,0,Taft-Punk,0,Heavyweights
+Mad Men,0,Taft-Punk,0,Heavyweights
+Mad Men,0,Spoiler,0,Heavyweights
+,0,Mistress,0,Heavyweights
+City Park Ultimate,0,,0,Heavyweights
+,0,,0,Heavyweights
+City Park Ultimate,0,Mistress,0,Heavyweights
+,0,City Park Ultimate,0,Heavyweights
+Mistress,0,,0,Heavyweights
+Black Market,0,Medicine Men,0,Heavyweights
+Beachfront Property,0,Medicine Men,0,Heavyweights
+Black Market,0,Beachfront Property,0,Heavyweights
 Prairie Fire,13,Zero Gravity,3,Texas 2 Finger
 H.I.P,13,Sick Katz,4,Texas 2 Finger
 Hypnotoad,12,Drought Ultimate,11,Texas 2 Finger
@@ -587,6 +652,39 @@ Huck It Trebek Tribute Band,3,Texas Two Step,11,Texas 2 Finger
 Zero Gravity,9,Huck It Trebek Tribute Band,10,Texas 2 Finger
 Drought Ultimate,5,Texas Two Step,15,Texas 2 Finger
 Zero Gravity,12,Drought Ultimate,11,Texas 2 Finger
+Voodoo,0,Warchild,0,West Coast Round Robin
+Condors,0,Boost FC,0,West Coast Round Robin
+Furious George,0,Renegade,0,West Coast Round Robin
+Furious George,0,Boost FC,0,West Coast Round Robin
+Rhino,0,Warchild,0,West Coast Round Robin
+Condors,0,Renegade,0,West Coast Round Robin
+Furious George,0,Rhino,0,West Coast Round Robin
+Voodoo,0,Renegade,0,West Coast Round Robin
+Condors,0,Warchild,0,West Coast Round Robin
+Rhino,0,Renegade,0,West Coast Round Robin
+Furious George,0,Voodoo,0,West Coast Round Robin
+Boost FC,0,Warchild,0,West Coast Round Robin
+Rhino,0,Condors,0,West Coast Round Robin
+Boost FC,0,Voodoo,0,West Coast Round Robin
+Warchild,0,Renegade,0,West Coast Round Robin
+Furious George,0,Condors,0,West Coast Round Robin
+Rhino,0,Voodoo,0,West Coast Round Robin
+Boost FC,0,Renegade,0,West Coast Round Robin
+Furious George,0,Warchild,0,West Coast Round Robin
+Rhino,0,Boost FC,0,West Coast Round Robin
+Condors,0,Voodoo,0,West Coast Round Robin
+Revolver,0,Chicago Machine,0,Emerald City Classic (TCT Pro Finale)
+Ironside,0,GOAT,0,Emerald City Classic (TCT Pro Finale)
+Revolver,0,GOAT,0,Emerald City Classic (TCT Pro Finale)
+Ironside,0,Chicago Machine,0,Emerald City Classic (TCT Pro Finale)
+Revolver,0,Ironside,0,Emerald City Classic (TCT Pro Finale)
+Chicago Machine,0,GOAT,0,Emerald City Classic (TCT Pro Finale)
+Sockeye,0,Chain Lightning,0,Emerald City Classic (TCT Pro Finale)
+Johnny Bravo,0,Doublewide,0,Emerald City Classic (TCT Pro Finale)
+Sockeye,0,Doublewide,0,Emerald City Classic (TCT Pro Finale)
+Johnny Bravo,0,Chain Lightning,0,Emerald City Classic (TCT Pro Finale)
+Sockeye,0,Johnny Bravo,0,Emerald City Classic (TCT Pro Finale)
+Chain Lightning,0,Doublewide,0,Emerald City Classic (TCT Pro Finale)
 Omen,13,Riders of Brohan,0,ATL Classic
 ATLiens,9,Birmingham,10,ATL Classic
 Omen,9,ATLiens,4,ATL Classic

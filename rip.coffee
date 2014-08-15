@@ -29,14 +29,14 @@ get_games = ($, file) ->
     game.away_score = elem.find("span[data-type='game-score-away']").text().trim()
     game.home_score = elem.find("span[data-type='game-score-home']").text().trim()
 
-    if !game.home? || !game.away?
-      console.warn "Found undefined team in pool play in #{file}"
-
     game.home = remove_seed game.home
     game.away = remove_seed game.away
     game.tournament = tourney
 
-    games.push game
+    if !game.home? || !game.away?
+      console.warn "Found undefined team in pool play in #{file}"
+    else
+      games.push game
 
 
   $('div.bracket_game').each (idx, el) ->
@@ -53,9 +53,9 @@ get_games = ($, file) ->
     game.tournament = tourney
 
     if !game.home? || !game.away?
-        console.warn "Found undefined team in bracket play in  #{file}"
-
-    games.push game
+      console.warn "Found undefined team in bracket play in  #{file}"
+    else
+      games.push game
 
   return games
 
