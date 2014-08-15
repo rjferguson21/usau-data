@@ -7,7 +7,7 @@ print_csv = (data) ->
   for row in data
     console.log "#{row.home},#{row.home_score},#{row.away},#{row.away_score}"
 
-get_games = ($) ->
+get_games = ($, file) ->
 
   games = []
 
@@ -24,6 +24,9 @@ get_games = ($) ->
     game.away = elem.find("span[data-type='game-team-away']").text().trim()
     game.away_score = elem.find("span[data-type='game-score-away']").text().trim()
     game.home_score = elem.find("span[data-type='game-score-home']").text().trim()
+
+    if !game.home? || !game.away?
+      console.warn "Found undefined team in pool play in #{file}"
 
     game.home = remove_seed game.home
     game.away = remove_seed game.away
@@ -43,11 +46,12 @@ get_games = ($) ->
     game.home = remove_seed game.home
     game.away = remove_seed game.away
 
+    if !game.home? || !game.away?
+        console.warn "Found undefined team in bracket play in  #{file}"
+
     games.push game
 
-
   return games
-
 
 games = []
 
@@ -55,6 +59,6 @@ games = []
 glob 'data/index*', (er, files) ->
   for file in files
     $ = cheerio.load(fs.readFileSync(file))
-    games = games.concat get_games($)
+    games = games.concat get_games($, file)
 
   print_csv(games)
