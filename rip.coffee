@@ -4,6 +4,8 @@ glob = require 'glob'
 
 
 print_csv = (data) ->
+  console.log "home_team,home_score,away_team,away_score"
+
   for row in data
     console.log "#{row.home},#{row.home_score},#{row.away},#{row.away_score}"
 
