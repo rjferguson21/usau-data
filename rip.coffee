@@ -16,7 +16,7 @@ get_games = ($) ->
     if result?
       return result[1].trim()
 
-  $('tr[data-game]').each( (idx, el) ->
+  $('tr[data-game]').each (idx, el) ->
     game = {}
 
     elem = $(el)
@@ -29,9 +29,9 @@ get_games = ($) ->
     game.away = remove_seed game.away
 
     games.push game
-  )
 
-  $('div.bracket_game').each( (idx, el) ->
+
+  $('div.bracket_game').each (idx, el) ->
     game = {}
 
     elem = $(el)
@@ -44,7 +44,7 @@ get_games = ($) ->
     game.away = remove_seed game.away
 
     games.push game
-  )
+
 
   return games
 
