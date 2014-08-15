@@ -4,10 +4,10 @@ glob = require 'glob'
 
 
 print_csv = (data) ->
-  console.log "home_team,home_score,away_team,away_score"
+  console.log "home_team,home_score,away_team,away_score,tournament"
 
   for row in data
-    console.log "#{row.home},#{row.home_score},#{row.away},#{row.away_score}"
+    console.log "#{row.home},#{row.home_score},#{row.away},#{row.away_score},#{row.tournament}"
 
 get_games = ($, file) ->
 
@@ -17,6 +17,8 @@ get_games = ($, file) ->
     result = /(.*)(\(\d+\))/.exec(str)
     if result?
       return result[1].trim()
+
+  tourney = $('.breadcrumbs a:nth-of-type(2)').text()
 
   $('tr[data-game]').each (idx, el) ->
     game = {}
@@ -32,6 +34,7 @@ get_games = ($, file) ->
 
     game.home = remove_seed game.home
     game.away = remove_seed game.away
+    game.tournament = tourney
 
     games.push game
 
@@ -47,6 +50,7 @@ get_games = ($, file) ->
 
     game.home = remove_seed game.home
     game.away = remove_seed game.away
+    game.tournament = tourney
 
     if !game.home? || !game.away?
         console.warn "Found undefined team in bracket play in  #{file}"
